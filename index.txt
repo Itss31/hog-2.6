@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>FunRoyal</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+    
+
+</head>
+<body>
+    <h1><center> Почему хог 2.6 досихпор в мете?</center></h1>
+    
+    <p><strong>Хог 2.6</strong> - это одна из самых старых и самых 
+        популярных колод в игре Clash Royal, которая всё так же 
+        остаётся максимально играбельной даже спустя годы. 
+        Почти каждый игрок пробовал ей играть. </p>
+        <center><table border="3">
+            <tr>
+                <td><a href="https://clash-royale.fandom.com/ru/wiki/%D0%92%D1%81%D0%B0%D0%B4%D0%BD%D0%B8%D0%BA_%D0%BD%D0%B0_%D0%BA%D0%B0%D0%B1%D0%B0%D0%BD%D0%B5" target="_blank"><img src="https://static.wikia.nocookie.net/clash-royale/images/0/07/%D0%92%D1%81%D0%B0%D0%B4%D0%BD%D0%B8%D0%BA_%D0%BD%D0%B0_%D0%BA%D0%B0%D0%B1%D0%B0%D0%BD%D0%B5.png/revision/latest?cb=20220425055803&path-prefix=ru" width="200"></td>
+                <td><a href="https://clash-royale.fandom.com/ru/wiki/%D0%9C%D1%83%D1%88%D0%BA%D0%B5%D1%82%D1%91%D1%80" target="_blank"><img src="https://static.wikia.nocookie.net/clash-royale/images/7/76/Cards_Musketeer.png/revision/latest?cb=20190129080403&path-prefix=ru" width="200"> </a> </td>
+                <td><a href="https://clash-royale.fandom.com/ru/wiki/%D0%9E%D0%B3%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%88%D0%B0%D1%80" target="_blank"><img src="https://static.wikia.nocookie.net/clash-royale/images/9/90/Cards_Fireball.png/revision/latest/scale-to-width-down/250?cb=20190129080721&path-prefix=ru" width="200"> </a> </td>
+                <td><a href="https://clash-royale.fandom.com/ru/wiki/%D0%9F%D1%83%D1%88%D0%BA%D0%B0" target="_blank"><img src="https://static.wikia.nocookie.net/clash-royale/images/1/10/Cards_Cannon.png/revision/latest/scale-to-width-down/250?cb=20190128152230&path-prefix=ru" width="200"> </a> </td>    
+            </tr>
+            <tr>
+                <td><a href="https://clash-royale.fandom.com/ru/wiki/%D0%91%D1%80%D0%B5%D0%B2%D0%BD%D0%BE" target="_blank"><img src="https://static.wikia.nocookie.net/clash-royale/images/d/da/%D0%91%D1%80%D0%B5%D0%B2%D0%BD%D0%BE.png/revision/latest?cb=20220425054758&path-prefix=ru" width="200"> </a> </td>
+                <td><a href="https://clash-royale.fandom.com/ru/wiki/%D0%9B%D0%B5%D0%B4%D1%8F%D0%BD%D0%BE%D0%B9_%D0%B3%D0%BE%D0%BB%D0%B5%D0%BC" target="_blank"><img src="https://static.wikia.nocookie.net/clash-royale/images/2/2d/Cards_Ice_Golem.png/revision/latest/scale-to-width-down/250?cb=20190201090213&path-prefix=ru" width="200"> </a> </td>
+                <td><a href="https://clash-royale.fandom.com/ru/wiki/%D0%9B%D0%B5%D0%B4%D1%8F%D0%BD%D0%BE%D0%B9_%D0%B4%D1%83%D1%85" target="_blank"><img src="https://static.wikia.nocookie.net/clash-royale/images/7/7d/%D0%9B%D0%B5%D0%B4%D1%8F%D0%BD%D0%BE%D0%B9_%D0%B4%D1%83%D1%85.png/revision/latest?cb=20220425060609&path-prefix=ru" width="200"></a></td>
+                <td><a href="https://clash-royale.fandom.com/ru/wiki/%D0%A1%D0%BA%D0%B5%D0%BB%D0%B5%D1%82%D1%8B" target="_blank"><img src="https://static.wikia.nocookie.net/clash-royale/images/f/f5/%D0%A1%D0%BA%D0%B5%D0%BB%D0%B5%D1%82%D1%8B.png/revision/latest?cb=20220425060912&path-prefix=ru" width="200"></a></td>
+            </tr>
+        </table></center>
+    
+        <hr color="black" noshade>
+        <center><h1>Тактика</h1></center>
+        <p><em>Средняя цена в эликсире у этой колоды - 2.6 
+            (это также часть названия колоды), что позволяет 
+            постоянно "прокручивать цикл" колоды, напрягая 
+            соперника.</em></p>
+            <center><h1>Начало боя</h1></center>
+            <p>Если в цикле в начале боя присутствуют мелкие карты 
+                (Ледяной дух, Скелеты, Электро дух), то сражение лучше 
+                всего начинать именно с них, прокручивая цикл и 
+                одновременно заставляя врага пропускать урон от духа 
+                либо защищаться. Можно также начинать с Мушкетёра 
+                вдали от башен либо с Пушки по центру.
+            </p>
+            <center><h1>Основы атаки</h1></center>
+            <p>Главный танк(атакующая карта) этой колоды - Всадник на кабане
+                (Негр на кабане).Для в разы более эффективной атаки стоит 
+                поставить перед ним Ледяного голема (зачастую уже у моста). 
+                Таким образом хог будет толкать голема перед собой, и тот 
+                быстро дойдёт до башни. Преимущество такой атаки также состоит 
+                в том, что её почти бессмысленно будет пытаться остановить 
+                Армией скелетов, поскольку урон Ледяного голема при уничтожении 
+                полностью убивает подошедших рядом скелетов 
+                (только если уровень Ледяного голема равен или выше уровня 
+                вражеской Армии скелетов).Но задефаться(защититься) от такой атаки не 
+                составляет большого труда. Например, имея в колоде любое здание твой соперник 
+            сможет спокойно остановить всадника не дав ему добраться до 
+            вышки. В таких случаях нужно ловить соперников на ошибках 
+            или же предугатывать будущее расположение постройки и
+            наносить ей урон фаерболом.(P.S. некоторые здания 
+            нельзя снести фаерболом, например, инферно).
+            Обычно так делают опытные игроки, но если вы промажете 
+            вы будите в минусе по элексиру и вероятнее всего получите 
+            большой урон по главным зданиям, поэтому необходимо использовать
+            правильно элексир ведь в этом и заключается в ключ к победе.</p>
+            <center><h1>Защита</h1></center>
+            <ol type="I">
+                <li>Бревно прекрасно защищает от мелких юнитов, а также от 
+                    гоблинской бочки и бочки со скелетами. Также следует помнить, 
+                    что бревно отбрасывает карты соперника, на некоторое время 
+                    снимая эффект штурма у Принцев, Боевого тарана, Всадницы на баране и т.д.</li>
+                <li> Огненный шар, может помочь легко защищаться от основной массы 
+                    атакующих карт соперника, особенно против Орды миньонов или других 
+                    средних юнитов по типу Колдуна, Магического лучника, мушкетера и т.д.</li>
+                <li>Ледяной дух и скелеты - прекрасные защитные карты, 
+                    которые легко останавливают войска соперника, не имеющие урона по области.</li>
+                    <li>Ледяной голем - отличный юнит для отвлечения внимания тяжелых войск. 
+                        Благодаря нему можно легко откайтить тяжелого бойца всеголишь за 2 элексира.
+                    </li>
+            </ol type="i">
+            <center><h1>Итог</h1></center>
+            <p>Данная колода является универсальной комбинацией карт с помощью которых можно прекрасно защищаться
+                от любых атак и не менее отлично атаковать.</p>
+            <center><h1>Источники для ознакомления с подробной информацией об игре</h1></center>
+            <ol> <li>Сдесь вы можете ознакомиться с услугами мастера, который сможет ответить на 
+                все ваши вопросы и научить играть на уровне киберспортсменов. <a href="https://www.avito.ru/moskva/predlozheniya_uslug/trener_po_clash_royale_2448364147" target="_blank">Тренер</a></li>
+            <li>Подробный разбор о различных колодах Clash Royal. <a href="https://www.deckshop.pro/ru/" target="_blank">Deckshop</a></li>
+            <li>Дополнительняа информация о хоге 2.6 <a href="https://clash-royale.fandom.com/ru/wiki/%D0%A5%D0%BE%D0%B3_2.6?so=search" target="_blank">Хог 2.6</a></li>
+            </ol>
+            <h2>Если вы хотите дополнить наш сайт дополнителньой информацией</h2>
+            <form action="https://vk.com/id576487790">
+                <label for="name">Ваше ФИО:</label>
+                <input type="text" id="name"placeholder="Введите ваше ФИО">
+                <br>
+                <label for="name">Ваш возраст:</label>
+                <input type="number" id="name"placeholder="">
+                <br>
+                <label for="name">Любая соц.сеть:</label>
+                <input type="text" id="name"placeholder="Введите текст">
+                <br>
+                <label for="name">Дата создания анкеты:</label>
+                <input type="date" id="name"placeholder="">
+                <br>
+                <label for="text">Ваша доп. информация</label>
+                <textarea id="text" cols="30" rows="10"></textarea>
+                <br>
+                <input type="submit" value="Связаться">
+            
+            </form>
+</body>
+</html>
